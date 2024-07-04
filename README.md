@@ -1,5 +1,5 @@
 # Projets_perso_jeux
-Création de mini jeux en Python
+Création de mini jeux en Python uniquement pour le fun
 
 La découverte de la programmation a été pour moi un électrochoc. 
 J'adore coder, en Python , puisque c'est celui que je connais le mieux.
