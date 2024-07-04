@@ -9,4 +9,4 @@ Un morpion,
 Une forme de Puissance 4, 
 Une boule magique
 
-Mme Irma vous a t-elle rassurée ? ^^ 
+Mme Irma vous a t-elle rassuré? ^^ 
